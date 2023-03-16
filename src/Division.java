@@ -4,7 +4,8 @@ public class Division {
 		System.out.println(numero_1/numero_2);
 		System.out.println(numero_3/numero_1);
 		System.out.println(numero_2/numero_1);
-		System.out.println(numero_1/numero_1);
-		System.out.println(numero_3/numero_1);
+		System.out.println(numero_1/numero_3);
+		System.out.println(numero_3/numero_2);
+		System.out.println(numero_2/numero_3);
 	}
 }
